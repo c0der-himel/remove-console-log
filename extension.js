@@ -25,7 +25,7 @@ function activate(context) {
       let editor = vscode.window.activeTextEditor;
       let document = editor.document;
 
-      fs.readFile(document.fileName, 'utf-8', async (err, data) => {
+      fs.readFile(document.fileName, 'utf-8', (err, data) => {
         if (data.length > 0) {
           const matches = data.match(/console\.log\(\s*[^()]*\);/g);
           if (matches) {
