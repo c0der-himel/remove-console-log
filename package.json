@@ -2,7 +2,7 @@
   "name": "remove-console-log",
   "displayName": "Remove Console Log",
   "description": "🚀 remove all console logs from js, jsx or ts, tsx files 🚀",
-  "version": "0.0.1",
+  "version": "1.0",
   "engines": {
     "vscode": "^1.79.0"
   },
