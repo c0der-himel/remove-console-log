@@ -4,7 +4,7 @@
 
 Thanks for checking out this VSCode extension. If you have any suggestion or have found out any bug please inform me.
 
-If this extension pack helps you out, give me 🌟🌟🌟🌟🌟 [five-star rating! →](marketplace link) 😃
+If this extension pack helps you out, give me 🌟🌟🌟🌟🌟 [five-star rating! →](https://marketplace.visualstudio.com/items?itemName=c0der-himel.remove-console-log) 😃
 
 ## Issues & Suggestions
 
