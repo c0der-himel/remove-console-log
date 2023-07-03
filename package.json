@@ -4,7 +4,7 @@
   "description": "🚀 remove all console logs from js, jsx or ts, tsx files 🚀",
   "publisher": "c0der-himel",
   "icon": "icon.png",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "engines": {
     "vscode": "^1.79.0"
   },
