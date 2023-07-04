@@ -10,14 +10,14 @@ If this extension helps you out, give me 🌟🌟🌟🌟🌟 [five-star rating!
 
 It's very simple. It's just 3 step process.
 
-![Shoot 1](./img/shoot1.png)
-
-1.  Press F1
-    ![Shoot 1](./img/shoot2.png)
-2.  Type -> remove console log
-    ![Shoot 1](./img/shoot3.png)
-3.  Press Enter
-    ![Shoot 1](./img/shoot4.png)
+0. This is a demo file
+   ![Shoot 1](./img/shoot1.png)
+1. Press F1
+   ![Shoot 1](./img/shoot2.png)
+2. Type -> remove console log
+   ![Shoot 1](./img/shoot3.png)
+3. Press Enter
+   ![Shoot 1](./img/shoot4.png)
 
 All console logs will be removed from your current file. And also a notification will popup to show you about removing the console logs.
 
