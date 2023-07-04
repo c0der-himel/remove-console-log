@@ -4,7 +4,7 @@
   "description": "🚀 remove all console logs from your current file 🚀",
   "publisher": "c0der-himel",
   "icon": "icon.png",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "engines": {
     "vscode": "^1.79.0"
   },
