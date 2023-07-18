@@ -27,7 +27,7 @@ function activate(context) {
 
       fs.readFile(document.fileName, 'utf-8', (err, data) => {
         if (data.length > 0) {
-          const matches = data.match(/console\.log\(\s*[^()]*\);/g);
+          const matches = data.match(/console\.log\([^)]+\);?/g);
           if (matches) {
             let count = 0;
             for (const match of matches) {

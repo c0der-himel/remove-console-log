@@ -11,3 +11,7 @@ Removed unwanted async call
 ## [1.4.0]
 
 Made README file easier to understand
+
+## [1.5.0]
+
+fixed a major bug: remove all console log from entire jsx file
